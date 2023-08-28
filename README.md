@@ -1,6 +1,4 @@
-# Jordan Thirkle - Web Developer Portfolio
-
-![Jordan Thirkle Developer Portfolio](portfolio_banner.jpg)
+# Jordan Thirkle - Aspiring Web Developer
 
 Hello there! Welcome to my GitHub repository for my personal web developer portfolio. I'm Jordan Thirkle, an aspiring web developer on a mission to broaden my skills, craft exciting projects, and pave the way for exciting job opportunities in the tech world. This README.md provides an overview of who I am, what I'm working on, and how you can connect with me.
 
