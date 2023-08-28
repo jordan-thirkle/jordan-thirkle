@@ -29,7 +29,7 @@ I'm perpetually eager to embrace novel challenges and explore emerging technolog
 
 I'm all ears for collaborations, discussions, and interactions with fellow developers, mentors, and prospective employers. If my work intrigues you or you'd like to connect for any reason whatsoever, don't hesitate to get in touch through [LinkedIn](https://www.linkedin.com/in/jordanthirkle/). Let's foster growth and learning side by side!
 
-Thank you for dropping by and catching a sneak peek into my journey as a developer. Here's to coding, innovating, and constructing a more remarkable web!
+Thank you for dropping by and catching a sneak peek into my journey as a developer.
 
 Best regards,
 Jordan Thirkle
