@@ -11,18 +11,6 @@ Right now I'm working on **FreeDrawColour**: a creative colouring app for kids a
 - Website: [freedrawcolour.com](https://freedrawcolour.com)
 - Studio site: [thirkle.netlify.app](https://thirkle.netlify.app)
 
-## What I work with
-
-- TypeScript
-- Astro
-- React Native
-- Next.js
-- Swift
-- Kotlin
-- Supabase
-- Netlify
-- Figma
-
 ## Current focus
 
 - Building FreeDrawColour
