@@ -1,38 +1,36 @@
-# Jordan Thirkle - Aspiring Web Developer
+# Hi, I'm Jordan
 
-Hello there! Welcome to my GitHub repository for my personal web developer portfolio. I'm Jordan Thirkle, an aspiring web developer on a mission to broaden my skills, craft exciting projects, and pave the way for exciting job opportunities in the tech world. This README.md provides an overview of who I am, what I'm working on, and how you can connect with me.
+I'm an independent developer building mobile apps and web products under **Thirkle**.
 
-## About Me
+I care about calm interfaces, sustainable scope, and software that stays maintainable after launch. I build in public, ship deliberately, and prefer quality over volume.
 
-I'm passionate about web development and have been avidly learning and building to grasp the intricacies of the online world. My journey kicked off with a fascination for technology and a burning desire to uncover the magic behind the web. My journey spans from crafting captivating frontend designs to ensuring the backend runs seamlessly, and I'm excited to dive into diverse technologies and frameworks for an all-encompassing skill set.
+## What I'm building
 
-## Learning and Sharing
+Right now I'm working on **FreeDrawColour**: a creative colouring app for kids and adults, available on iOS, Android, and the web.
 
-Learning is a lifelong journey, and I'm committed to expanding my tech stack. I document my learning experiences, coding challenges, and insights on my [Twitter](https://twitter.com/Jordan_Thirkle), where I share tips, resources, and snippets of my coding escapades. Feel free to follow me there for real-time updates on my progress and my take on the ever-evolving field of web development.
+- Website: [freedrawcolour.com](https://freedrawcolour.com)
+- Studio site: [thirkle.netlify.app](https://thirkle.netlify.app)
 
-## Portfolio Projects
+## What I work with
 
-My portfolio is a compilation of projects that spotlight my skills and imagination. Each project reflects a distinctive challenge I've tackled, showcasing my ability to bring web applications to life from concept to deployment. You can explore my projects at [jordanthirkle.vercel.app](https://jordanthirkle.vercel.app), where I delve into each project's specifics, the technologies leveraged, and the issues they address. My projects mirror my hands-on learning approach and the dedication I pour into refining my craft.
+- TypeScript
+- Astro
+- React Native
+- Next.js
+- Swift
+- Kotlin
+- Supabase
+- Netlify
+- Figma
 
-## Current Focus
+## Current focus
 
-At present, I'm dedicated to enhancing my proficiency in these domains:
+- Building FreeDrawColour
+- Improving the Thirkle website
 
-- Frontend development using contemporary frameworks like React and Vue.js.
-- Backend development with Node.js and delving into databases like MongoDB and PostgreSQL.
-- Version control and collaborative workflows using Git and GitHub.
-- Grasping web design fundamentals, user experience (UX), and the art of responsive design.
+## Find me
 
-I'm perpetually eager to embrace novel challenges and explore emerging technologies to stay in sync with the ever-evolving tech landscape.
-
-## Get in Touch
-
-I'm all ears for collaborations, discussions, and interactions with fellow developers, mentors, and prospective employers. If my work intrigues you or you'd like to connect for any reason whatsoever, don't hesitate to get in touch through [LinkedIn](https://www.linkedin.com/in/jordanthirkle/). Let's foster growth and learning side by side!
-
-Thank you for dropping by and catching a sneak peek into my journey as a developer.
-
-Best regards,
-Jordan Thirkle
-
----
-_Last updated: August 28, 2023_
+- Website: [thirkle.netlify.app](https://thirkle.netlify.app)
+- GitHub: [@jordan-thirkle](https://github.com/jordan-thirkle)
+- X: [@thirkledev](https://x.com/thirkledev)
+- Email: [hello@thirkle.dev](mailto:hello@thirkle.dev)
