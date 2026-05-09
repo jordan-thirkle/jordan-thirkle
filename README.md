@@ -2,7 +2,11 @@
 
 **Strategic Architect**
 
-Computer Science graduate and full-stack architect. I craft high-performance web, app, and game ecosystems using Astro, React, and AI-accelerated workflows. Specializing in minimalist architecture and product engineering.
+Computer Science graduate and full-stack architect. 
+
+I craft high-performance web, app, and game ecosystems using Astro, React, and AI-accelerated workflows. 
+
+Specializing in minimalist architecture and product engineering.
 
 ## Find me
 
