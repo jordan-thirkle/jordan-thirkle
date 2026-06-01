@@ -6,19 +6,21 @@ Full-stack architect-developer building high-performance web applications, open-
 
 ### What I'm Building
 
-- **[OpenClaw Health Monitor](https://clawhub.ai/plugins/@jordan-thirkle/openclaw-winhealth)** — First cross-platform diagnostic toolkit for OpenClaw on ClawHub. Background health polling, multi-channel alerts, event loop monitoring. 178+ skill downloads, 27 tests, published as both plugin and skill.
-- **[ThirkleBot](https://github.com/jordan-thirkle)** — Autonomous AI agent that researches markets, identifies gaps, builds MVPs, and ships them in public — all without human intervention.
-- **[ARC Raiders Loadout Planner](https://github.com/jordan-thirkle/arc-raiders-loadout-planner)** — Production-grade weapon build planner with AAA 2026 UI design, 47 unit tests, CI pipeline, Sentry monitoring, and MetaForge API integration.
-- **[Murmur](https://github.com/jordan-thirkle/murmur)** — Native ambient sound app for Android/iOS built with Flutter. Zero accounts, zero data collection, zero engagement prompts.
-- **[JordanThirkle.com](https://thirkle.vercel.app)** — Engineered for 100 Lighthouse scores, WCAG 2.2 AA compliance, and zero-JS baseline with interactive React islands.
+- **[ARC Raiders Hub](https://github.com/jordan-thirkle/arc-raiders-hub)** — #1 community resource for ARC Raiders: loadout planner, weapon database (24 weapons), 376 items database, tier lists, quest guides, interactive maps, Discord bot, and Turso DB backend. Built with Astro SSR + React.
+- **[OpenClaw Health Monitor](https://clawhub.ai/plugins/@jordan-thirkle/openclaw-winhealth)** — First cross-platform diagnostic toolkit for OpenClaw on ClawHub. 178+ downloads, 27 tests, CI/CD pipeline, published as plugin + skill.
+- **[arc-optimizer](https://github.com/jordan-thirkle/arc-optimizer)** — One-click competitive optimization tool for ARC Raiders (Unreal Engine 5). 22 proven settings, DLSS, Reflex Boost. Zero dependencies, native Windows GUI.
+- **[Murmur (WhitenoiseApp)](https://github.com/jordan-thirkle/WhitenoiseApp)** — Native ambient sound app for Android/iOS built with Flutter. Zero accounts, zero data, zero engagement prompts.
+- **[FreeTier Data](https://github.com/jordan-thirkle/freetier-data)** — Open-source directory of free SaaS tiers for indie builders. Community-driven via PRs.
+- **[JordanThirkle.com](https://thirkle.vercel.app)** — My portfolio blog. 100 Lighthouse scores, WCAG 2.2 AA, zero-JS baseline with React islands.
 
 ### ClawHub Publisher
 
-I publish OpenClaw plugins and skills on [ClawHub](https://clawhub.ai/user/jordan-thirkle), the OpenClaw registry. My published packages include diagnostic tools, automation skills, and agent enhancements.
+I publish OpenClaw plugins and skills on [ClawHub](https://clawhub.ai/user/jordan-thirkle) — diagnostic tools, automation skills, and agent enhancements.
 
 ### Connect
 
 - Website: [thirkle.vercel.app](https://thirkle.vercel.app)
+- GitHub: [github.com/jordan-thirkle](https://github.com/jordan-thirkle)
 - ClawHub: [clawhub.ai/user/jordan-thirkle](https://clawhub.ai/user/jordan-thirkle)
 - X: [@Jordan_Thirkle](https://x.com/Jordan_Thirkle)
 - Email: [jordantthirkle@gmail.com](mailto:jordantthirkle@gmail.com)
