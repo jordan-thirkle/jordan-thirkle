@@ -11,7 +11,7 @@ Full-stack architect-developer building high-performance web applications, open-
 - **[arc-optimizer](https://github.com/jordan-thirkle/arc-optimizer)** — One-click competitive optimization tool for ARC Raiders (Unreal Engine 5). 22 proven settings, DLSS, Reflex Boost. Zero dependencies, native Windows GUI.
 - **[Murmur (WhitenoiseApp)](https://github.com/jordan-thirkle/WhitenoiseApp)** — Native ambient sound app for Android/iOS built with Flutter. Zero accounts, zero data, zero engagement prompts.
 - **[FreeTier Data](https://github.com/jordan-thirkle/freetier-data)** — Open-source directory of free SaaS tiers for indie builders. Community-driven via PRs.
-- **[JordanThirkle.com](https://thirkle.vercel.app)** — Portfolio blog. 100 Lighthouse scores, WCAG 2.2 AA, zero-JS baseline with React islands.
+- **[byjtt.com](https://byjtt.com)** — Portfolio blog. 100 Lighthouse scores, WCAG 2.2 AA, zero-JS baseline with React islands.
 
 ### ClawHub Publisher
 
@@ -19,7 +19,7 @@ I publish OpenClaw plugins and skills on [ClawHub](https://clawhub.ai/user/jorda
 
 ### Connect
 
-- Website: [thirkle.vercel.app](https://thirkle.vercel.app)
+- Website: [byjtt.com](https://byjtt.com)
 - GitHub: [github.com/jordan-thirkle](https://github.com/jordan-thirkle)
 - ClawHub: [clawhub.ai/user/jordan-thirkle](https://clawhub.ai/user/jordan-thirkle)
 - X: [@Jordan_Thirkle](https://x.com/Jordan_Thirkle)
