@@ -1,26 +1,19 @@
-## Thirkle
+# By JTT
 
-Engineering at the speed of AI.
+Independent product studio building practical web products and focused open-source tools.
 
-Full-stack architect-developer building high-performance web applications, open-source tools, and autonomous AI agents. I design minimalist, performant products using Astro, React, TypeScript, and Flutter — accelerated by AI workflows.
+Most product and client repositories are private by design. Public repositories are intentionally maintained for open-source releases or community collaboration.
 
-### What I'm Building
+## Open source
 
-- **[ARC Raiders Hub](https://github.com/jordan-thirkle/arc-raiders-hub)** — #1 community resource for ARC Raiders: loadout planner, weapon database (24 weapons), 376 items database, tier lists, quest guides, interactive maps, Discord bot, and Turso DB backend. Built with Astro SSR + React.
-- **[OpenClaw Health Monitor](https://clawhub.ai/plugins/@jordan-thirkle/openclaw-winhealth)** — First cross-platform diagnostic toolkit for OpenClaw on ClawHub. 178+ downloads, 27 tests, CI/CD pipeline, published as plugin + skill.
-- **[arc-optimizer](https://github.com/jordan-thirkle/arc-optimizer)** — One-click competitive optimization tool for ARC Raiders (Unreal Engine 5). 22 proven settings, DLSS, Reflex Boost. Zero dependencies, native Windows GUI.
-- **[Murmur (WhitenoiseApp)](https://github.com/jordan-thirkle/WhitenoiseApp)** — Native ambient sound app for Android/iOS built with Flutter. Zero accounts, zero data, zero engagement prompts.
-- **[FreeTier Data](https://github.com/jordan-thirkle/freetier-data)** — Open-source directory of free SaaS tiers for indie builders. Community-driven via PRs.
-- **[byjtt.com](https://byjtt.com)** — Portfolio blog. 100 Lighthouse scores, WCAG 2.2 AA, zero-JS baseline with React islands.
+- **[Aether](https://github.com/jordan-thirkle/aether)** — a practical quality harness for AI-assisted web development.
+- **[ARC Optimizer](https://github.com/jordan-thirkle/arc-optimizer)** — a lightweight Windows optimization tool for ARC Raiders.
+- **[FreeTier Data](https://github.com/jordan-thirkle/freetier-data)** — community-maintained data for indie builders.
+- **[Merge Gateway Proxy](https://github.com/jordan-thirkle/merge-gateway-proxy)** — an OpenAI-compatible proxy for Merge Gateway.
 
-### ClawHub Publisher
+## Elsewhere
 
-I publish OpenClaw plugins and skills on [ClawHub](https://clawhub.ai/user/jordan-thirkle) — diagnostic tools, automation skills, and agent enhancements.
+- [byjtt.com](https://byjtt.com)
+- [X / @Jordan_Thirkle](https://x.com/Jordan_Thirkle)
 
-### Connect
-
-- Website: [byjtt.com](https://byjtt.com)
-- GitHub: [github.com/jordan-thirkle](https://github.com/jordan-thirkle)
-- ClawHub: [clawhub.ai/user/jordan-thirkle](https://clawhub.ai/user/jordan-thirkle)
-- X: [@Jordan_Thirkle](https://x.com/Jordan_Thirkle)
-- Email: [jordantthirkle@gmail.com](mailto:jordantthirkle@gmail.com)
+Security issues should be reported privately through GitHub's private vulnerability reporting when available. Please do not disclose suspected vulnerabilities publicly.
