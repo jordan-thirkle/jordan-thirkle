@@ -1,10 +1,12 @@
 <div align="center">
 
-# Jordan Thirkle
+[![By JTT](https://img.shields.io/badge/BY_JTT-161614?style=for-the-badge&labelColor=161614)](https://byjtt.com)
 
 **Software that stays useful — not just shipped.**
 
 I'm the whole studio behind **[By JTT](https://byjtt.com)**: web, game, and app development, built with AI doing the heavy lifting so it stays a one-person operation.
+
+<sub>Astro · React · TypeScript · Flutter · Godot · Three.js · Cloudflare Workers</sub>
 
 <br>
 
