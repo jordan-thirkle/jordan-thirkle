@@ -28,7 +28,7 @@ One person, no team, AI doing the grunt work.
 
 <br><br>
 
-<sub>Full record → byjtt.com/work</sub>
+<sub><a href="https://byjtt.com/work">Full record → byjtt.com/work</a></sub>
 
 <br><br>
 
