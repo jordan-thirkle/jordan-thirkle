@@ -9,7 +9,7 @@
 
 **Software that stays useful — not just shipped.**
 
-I'm the whole studio behind By JTT: web, game, and software development, built with AI doing the heavy lifting so it stays a one-person operation.
+One person, no team, AI doing the grunt work.
 
 <br>
 
