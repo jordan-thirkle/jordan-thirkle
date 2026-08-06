@@ -1,3 +1,4 @@
+<!-- Hand-coded, not templated. Theme-adaptive badges via prefers-color-scheme, no external banner services, no dependencies that can go dark. Every link resolves to something real. -->
 <div align="center">
 
 <a href="https://byjtt.com">
