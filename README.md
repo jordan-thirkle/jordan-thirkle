@@ -1,29 +1,29 @@
-# By JTT
+<div align="center">
 
-Independent product studio building practical web products and focused open-source tools.
+# Jordan Thirkle
 
-By JTT exists to turn small, useful software into durable products, public evidence, and a compounding body of work. The studio builds with AI, but trust comes from what ships, what users find useful, and what the evidence supports.
+**Software that stays useful — not just shipped.**
 
-## Current focus
+I'm the whole studio behind **[By JTT](https://byjtt.com)**: web, game, and app development, built with AI doing the heavy lifting so it stays a one-person operation.
 
-- **VibeCheck** — quality signals for AI-built software: https://www.byjtt.com/vibecheck
-- **By JTT** — the studio home, evidence library, and build-in-public record: https://www.byjtt.com
+<br>
 
-## Selected open source
+[![Web Development](https://img.shields.io/badge/Web%20Development-0EA5E9?style=for-the-badge&logo=astro&logoColor=white)](https://byjtt.com/work#web)
+[![Game Development](https://img.shields.io/badge/Game%20Development-6D4AFF?style=for-the-badge&logo=godotengine&logoColor=white)](https://byjtt.com/work#games)
+[![App Development](https://img.shields.io/badge/App%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://byjtt.com/work#apps)
+[![Tools & Libraries](https://img.shields.io/badge/Tools%20%26%20Libraries-14181B?style=for-the-badge&logo=github&logoColor=white)](https://byjtt.com/work#tools)
 
-- **[Hermes Agent](https://github.com/jordan-thirkle/hermes-agent)** — an agent that grows with you.
-- **[Aether](https://github.com/jordan-thirkle/aether)** — a practical quality harness for AI-assisted web development.
-- **[OpenRouter Monitor](https://github.com/jordan-thirkle/openrouter-monitor)** — local-first usage monitoring with anomaly detection.
-- **[Merge Gateway Proxy](https://github.com/jordan-thirkle/merge-gateway-proxy)** — an OpenAI-compatible proxy for Merge Gateway.
-- **[FreeTier Data](https://github.com/jordan-thirkle/freetier-data)** — community-maintained data for indie builders.
+<br>
 
-Most product and client repositories are private by design. Public repositories are selected for usefulness, learning, or collaboration, not for volume.
+### [→ See the full record at byjtt.com/work](https://byjtt.com/work)
 
-## Follow the work
+<sub>New work ships there, not here. This page doesn't change — that one does.</sub>
 
-- Website: https://www.byjtt.com
-- X: https://x.com/devbyjtt
+<br>
 
-Build in public, but publish the evidence.
+[![Website](https://img.shields.io/badge/byjtt.com-visit-black?style=flat-square)](https://byjtt.com)
+[![GitHub](https://img.shields.io/badge/GitHub-follow-black?style=flat-square&logo=github)](https://github.com/jordan-thirkle)
+[![X](https://img.shields.io/badge/X-@devbyjt-black?style=flat-square&logo=x)](https://x.com/devbyjt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordanthirkle)
 
-Security issues should be reported privately through GitHub's private vulnerability reporting when available. Please do not disclose suspected vulnerabilities publicly.
+</div>
