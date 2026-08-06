@@ -1,4 +1,4 @@
-<!-- Hand-coded, not templated. Theme-adaptive badges via prefers-color-scheme, no external banner services, no dependencies that can go dark. Every link resolves to something real. -->
+<!-- Hand-coded, not templated. Every device below is a native markdown/HTML capability — no external image services, no JS, no dependencies that can go dark. Theme-adaptive via prefers-color-scheme. -->
 <div align="center">
 
 <a href="https://byjtt.com">
@@ -8,28 +8,48 @@
 </picture>
 </a>
 
-**Software that stays useful — not just shipped.**
+<br><br>
+
+> Software that stays useful — not just shipped.
 
 I'm the whole studio behind By JTT: web, game, and software development, built with AI doing the heavy lifting so it stays a one-person operation.
 
 <br>
 
-<a href="https://byjtt.com/work#web">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Web%20Development-F2F0EB?style=for-the-badge"><img src="https://img.shields.io/badge/Web%20Development-161614?style=for-the-badge" alt="Web Development"></picture>
-</a>
-<a href="https://byjtt.com/work#games">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Game%20Development-F2F0EB?style=for-the-badge"><img src="https://img.shields.io/badge/Game%20Development-161614?style=for-the-badge" alt="Game Development"></picture>
-</a>
-<a href="https://byjtt.com/work#apps">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Software%20Development-F2F0EB?style=for-the-badge"><img src="https://img.shields.io/badge/Software%20Development-161614?style=for-the-badge" alt="Software Development"></picture>
-</a>
-<a href="https://byjtt.com/work#tools">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tools%20%26%20Libraries-F2F0EB?style=for-the-badge"><img src="https://img.shields.io/badge/Tools%20%26%20Libraries-161614?style=for-the-badge" alt="Tools & Libraries"></picture>
-</a>
+---
 
-<br><br>
+<br>
 
-<sub>Full record → byjtt.com/work</sub>
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://byjtt.com/work#web"><b>Web</b></a><br><sub>sites &amp; apps</sub></td>
+<td align="center" width="25%"><a href="https://byjtt.com/work#games"><b>Games</b></a><br><sub>built in-engine</sub></td>
+<td align="center" width="25%"><a href="https://byjtt.com/work#apps"><b>Software</b></a><br><sub>mac &amp; windows</sub></td>
+<td align="center" width="25%"><a href="https://byjtt.com/work#tools"><b>Tools</b></a><br><sub>open source</sub></td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<details>
+<summary><sub>HOW IT'S BUILT</sub></summary>
+<br>
+
+One developer. AI woven through the entire pipeline — architecture, review, execution — not bolted on as autocomplete. Everything shipped is built to outlast the trend that inspired it.
+
+</details>
+
+<br>
+
+---
+
+<br>
+
+[`$ open byjtt.com`](https://byjtt.com)
 
 <br><br>
 
