@@ -1,31 +1,45 @@
 <div align="center">
 
-[![By JTT](https://img.shields.io/badge/BY_JTT-161614?style=for-the-badge&labelColor=161614)](https://byjtt.com)
+<a href="https://byjtt.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/BY_JTT-F2F0EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BY_JTT-161614?style=for-the-badge" alt="By JTT">
+</picture>
+</a>
 
 **Software that stays useful — not just shipped.**
 
-I'm the whole studio behind **[By JTT](https://byjtt.com)**: web, game, and app development, built with AI doing the heavy lifting so it stays a one-person operation.
-
-<sub>Astro · React · TypeScript · Flutter · Godot · Three.js · Cloudflare Workers</sub>
+I'm the whole studio behind By JTT: web, game, and app development, built with AI doing the heavy lifting so it stays a one-person operation.
 
 <br>
 
-[![Web Development](https://img.shields.io/badge/Web%20Development-0EA5E9?style=for-the-badge&logo=astro&logoColor=white)](https://byjtt.com/work#web)
-[![Game Development](https://img.shields.io/badge/Game%20Development-6D4AFF?style=for-the-badge&logo=godotengine&logoColor=white)](https://byjtt.com/work#games)
-[![App Development](https://img.shields.io/badge/App%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://byjtt.com/work#apps)
-[![Tools & Libraries](https://img.shields.io/badge/Tools%20%26%20Libraries-14181B?style=for-the-badge&logo=github&logoColor=white)](https://byjtt.com/work#tools)
+<a href="https://byjtt.com/work#web">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Web%20Development-F2F0EB?style=for-the-badge"><img src="https://img.shields.io/badge/Web%20Development-161614?style=for-the-badge" alt="Web Development"></picture>
+</a>
+<a href="https://byjtt.com/work#games">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Game%20Development-F2F0EB?style=for-the-badge"><img src="https://img.shields.io/badge/Game%20Development-161614?style=for-the-badge" alt="Game Development"></picture>
+</a>
+<a href="https://byjtt.com/work#apps">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/App%20Development-F2F0EB?style=for-the-badge"><img src="https://img.shields.io/badge/App%20Development-161614?style=for-the-badge" alt="App Development"></picture>
+</a>
+<a href="https://byjtt.com/work#tools">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tools%20%26%20Libraries-F2F0EB?style=for-the-badge"><img src="https://img.shields.io/badge/Tools%20%26%20Libraries-161614?style=for-the-badge" alt="Tools & Libraries"></picture>
+</a>
 
-<br>
+<br><br>
 
-### [→ See the full record at byjtt.com/work](https://byjtt.com/work)
+<sub>Full record → byjtt.com/work</sub>
 
-<sub>New work ships there, not here. This page doesn't change — that one does.</sub>
+<br><br>
 
-<br>
-
-[![Website](https://img.shields.io/badge/byjtt.com-visit-black?style=flat-square)](https://byjtt.com)
-[![GitHub](https://img.shields.io/badge/GitHub-follow-black?style=flat-square&logo=github)](https://github.com/jordan-thirkle)
-[![X](https://img.shields.io/badge/X-@devbyjt-black?style=flat-square&logo=x)](https://x.com/devbyjt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordanthirkle)
+<a href="https://github.com/jordan-thirkle">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-F2F0EB?style=flat-square&logo=github&logoColor=161614"><img src="https://img.shields.io/badge/GitHub-161614?style=flat-square&logo=github&logoColor=F2F0EB" alt="GitHub"></picture>
+</a>
+<a href="https://x.com/devbyjt">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-F2F0EB?style=flat-square&logo=x&logoColor=161614"><img src="https://img.shields.io/badge/X-161614?style=flat-square&logo=x&logoColor=F2F0EB" alt="X"></picture>
+</a>
+<a href="https://linkedin.com/in/jordanthirkle">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-F2F0EB?style=flat-square&logo=linkedin&logoColor=161614"><img src="https://img.shields.io/badge/LinkedIn-161614?style=flat-square&logo=linkedin&logoColor=F2F0EB" alt="LinkedIn"></picture>
+</a>
 
 </div>
